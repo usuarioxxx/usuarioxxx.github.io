@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Título de la página</title>
-    <link>https://usernamexxx.github.io/tags/projects/</link>
+    <link>https://usuarioxxx.github.io/tags/projects/</link>
     <description>Recent content in Projects on Título de la página</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://usernamexxx.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://usuarioxxx.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://usernamexxx.github.io/projects/</link>
+      <link>https://usuarioxxx.github.io/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://usernamexxx.github.io/projects/</guid>
+      <guid>https://usuarioxxx.github.io/projects/</guid>
       <description></description>
     </item>
     
